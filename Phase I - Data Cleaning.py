@@ -17,9 +17,20 @@ data['A7'] = data['A7'].replace('?',np.NaN)
 data['A7'] = pd.to_numeric(data['A7'])
 
 #Check the number of NaN values
-print("Number of NaN Values in column A7: ",sum(pd.isnull(data['A7'])))
+print("Number of NaN Values in column A7: ",sum(pd.isnull(data['A7'])), "\n")
 
 #Replace NaN values in whole dataset with the mean of column A7
 if data.isnull().values.any():
     data = data.fillna(data['A7'].mean(skipna=True))
 
+#Print Summary Statistics
+print("Summary Statistics:\n",data.describe(),"\n")
+
+#Number of columns in data
+print("Number of columns in data:\n",data.shape[1], "\n")
+
+#Number of observations/rows
+print("Number of observations/rows in data:\n",data.shape[0], "\n")
+
+#Number of Unique Values
+print("Number of unique id values:\n", len(data.index.get_level_values(0).unique()))
