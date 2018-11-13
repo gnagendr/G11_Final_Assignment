@@ -8,7 +8,7 @@ Created on Sun Nov 11 18:07:46 2018
 import pandas as pd
 import numpy as np
 
-d = 'https://raw.github.com/gnagendr/G11_Final_Assignment/master/Breast-Cancer-Wisconsin.csv'
+d = 'https://raw.github.com/gnagendr/G11_Final_Assignment/master/Data/Breast-Cancer-Wisconsin.csv'
 data = pd.read_csv(d, index_col=0, sep = ',')
 
 #Replace '?' with NaN in column A7
