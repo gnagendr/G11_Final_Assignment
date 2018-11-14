@@ -1,10 +1,10 @@
 # G11_Final_Assignment
 INFO I590 - Python
 
-G11 Team 
-Jason Gumaer
-Gautham Nagendra Kamatchi
-William Worden
+G11 Team - 
+Jason Gumaer, 
+Gautham Nagendra Kamatchi, 
+William Worden.
 
 For Phase 1 activity split betwwen team members 
 
