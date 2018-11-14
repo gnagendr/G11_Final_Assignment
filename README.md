@@ -13,7 +13,7 @@ Data cleaning - report Number of NaN, replace ?, impute NaN by the column mean.
 Data Stats 
 
 Jason Gumaer would be responsbile for 
-Plotting Scatterplot and Bar Plot must have titles,y axis and x axis names, non-default colors. 9 histograms (subfigures) do not have to have titles. 5pts
+Plotting Scatterplot and Bar Plot must have titles,y axis and x axis names, non-default colors, histograms (subfigures) do not have to have titles.
 Import libraries, Proper data import 
 
 Gautham Nagendra Kamatchi would be responsbile for 
