@@ -14,7 +14,7 @@ Data Stats
 
 Jason Gumaer would be responsbile for 
 Plotting Scatterplot and Bar Plot must have titles,y axis and x axis names, non-default colors, histograms (subfigures) do not have to have titles.
-Import libraries, Proper data import 
+Import libraries, Proper data import, Place contributions in notebook 
 
 Gautham Nagendra Kamatchi would be responsbile for 
 Github set up with one folder for code and one folder for dataset 
