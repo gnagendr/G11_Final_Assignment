@@ -19,3 +19,4 @@ Import libraries, Proper data import, Place contributions in notebook
 Gautham Nagendra Kamatchi would be responsbile for 
 Github set up with one folder for code and one folder for dataset 
 Readme file with contributions 
+Explanatory Data Analysis - Summarize by reporting which values might need standardization in the future (too much variation) and any other observations that you may discover as a Data Scientist.
