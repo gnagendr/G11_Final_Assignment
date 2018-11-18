@@ -33,4 +33,11 @@ print("Number of columns in data:\n",data.shape[1], "\n")
 print("Number of observations/rows in data:\n",data.shape[0], "\n")
 
 #Number of Unique Values
-print("Number of unique id values:\n", len(data.index.get_level_values(0).unique()))
+print("Number of unique id values:\n", len(data.index.get_level_values(0).unique()),"\n")
+
+
+print("Variable Standard Deviation", "\n", data.std(axis = 0), "\n")
+
+print("Variable Variation", "\n", data.var(axis = 0), "\n")
+
+print("Boxplot of Variables:", "\n", data.boxplot())
