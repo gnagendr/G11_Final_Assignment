@@ -6,7 +6,7 @@ Jason Gumaer,
 Gautham Nagendra Kamatchi, 
 William Worden.
 
-## For Phase 1 activity split betwwen team members 
+## For Phase 1 activity split between team members 
 
 ### William Worden would be responsbile for 
 
