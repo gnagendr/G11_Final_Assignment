@@ -33,7 +33,7 @@ Use KMeans algorithm
 
 ### Jason Gumaer wase responsibe for
 
-Finding the optimal number of clusters, implement normalization
+Finding the optimal number of clusters, implement normalization, updated ReadMe.
 
 ### Gautham Nagendra Kamatchi was responsible for
 
