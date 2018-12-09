@@ -39,4 +39,23 @@ Finding the optimal number of clusters, implement normalization, updated ReadMe.
 
 Revise Data Variation
 
+## Phase 3 activity split btween team members
+
+### William Worden was responsible for
+
+Creating the new clustering for the data
+Writing the benign error function
+Reviewing the final report
+
+### Jason Gumaer was responsible for
+
+Creating the total error function
+Writing the final report
+
+### Gautham Nagendra Kamatchi was responsible for
+
+Adding the cluster labels to the data fram
+Writing the malign error code
+Reviewing the final report
+
 ## Python Notebook was updated individually based on the above assigned responsibility
